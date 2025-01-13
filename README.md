@@ -12,7 +12,7 @@ Programa intensivo focado na aplicação de inteligência artificial em dados, d
 - Criar dashboards profissionais
 - Transformar dados brutos em decisões estratégicas
 
-
+<!--
 ### 5. Projetos Práticos
 - [Link para pasta](/projetos)
   - [Projeto 1: Nome do Projeto](/projetos/projeto1)
@@ -21,7 +21,7 @@ Programa intensivo focado na aplicação de inteligência artificial em dados, d
   - [Projeto 4: Nome do Projeto](/projetos/projeto4)
   - [Projeto 5: Nome do Projeto](/projetos/projeto5)
   - [Projeto 6: Nome do Projeto](/projetos/projeto6)
-
+-->
 ## 🛠️ Tecnologias Utilizadas
 - SQL
 - Microsoft Copilot
