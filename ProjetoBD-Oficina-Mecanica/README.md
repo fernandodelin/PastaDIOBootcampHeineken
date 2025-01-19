@@ -17,7 +17,7 @@ O sistema foi modelado considerando o seguinte fluxo de negócio:
 ### Modelo Conceitual
 O diagrama abaixo representa o modelo conceitual do sistema:
 
-![Diagrama Concentual](.ProjetoBD-Oficina-Mecanica/shcema-oficina-mecanica.jpg)
+![Diagrama Concentual](./shcema-oficina-mecanica.jpg)
 
 ## Entidades Principais
 
