@@ -1,3 +1,4 @@
+```
 erDiagram
     CLIENTE ||--o{ VEICULO : possui
     VEICULO ||--o{ ORDEM_SERVICO : "tem"
@@ -56,3 +57,4 @@ erDiagram
         string especialidade
         int id_equipe FK
     }
+```
