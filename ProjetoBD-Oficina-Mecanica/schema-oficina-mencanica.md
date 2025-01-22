@@ -1,4 +1,4 @@
-```
+```mermaid
 erDiagram
     CLIENTE ||--o{ VEICULO : possui
     VEICULO ||--o{ ORDEM_SERVICO : "tem"
