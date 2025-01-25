@@ -12,38 +12,25 @@ Programa intensivo focado na aplicação de inteligência artificial em dados, d
 - Criar dashboards profissionais
 - Transformar dados brutos em decisões estratégicas
 
-<!--
+
 ### 5. Projetos Práticos
-- [Link para pasta](/projetos)
-  - [Projeto 1: Nome do Projeto](/projetos/projeto1)
-  - [Projeto 2: Nome do Projeto](/projetos/projeto2)
-  - [Projeto 3: Nome do Projeto](/projetos/projeto3)
-  - [Projeto 4: Nome do Projeto](/projetos/projeto4)
-  - [Projeto 5: Nome do Projeto](/projetos/projeto5)
-  - [Projeto 6: Nome do Projeto](/projetos/projeto6)
--->
+
+  - [Contribuindo em um Projeto Open Source no GitHub](https://github.com/elidianaandrade/dio-lab-open-source/pull/405)
+  - [Refinando um Projeto Conceitual de Banco de Dados – E-COMMERCE](https://github.com/fernandodelin/PastaDIOBootcampHeineken/tree/main/ProjetoBD-e-commerce)
+  - [Construindo um Esquema Conceitual para Banco De dados](https://github.com/fernandodelin/PastaDIOBootcampHeineken/tree/main/ProjetoBD-Oficina-Mecanica)
+  - [Construindo seu Primeiro Projeto Lógico de Banco de Dados](https://github.com/fernandodelin/PastaDIOBootcampHeineken/tree/main/ProjetoBD-e-commerce)
+  - [Construa um Projeto Lógico de Banco de Dados do Zero](https://github.com/fernandodelin/PastaDIOBootcampHeineken/tree/main/ProjetoBD-Oficina-Mecanica)
+  - [Criando um Dashboard de Vendas do Xbox](https://github.com/fernandodelin/PastaDIOBootcampHeineken/tree/main/ProjetoDashboardVendasXBOX)
+
 ## 🛠️ Tecnologias Utilizadas
 - SQL
 - Microsoft Copilot
 - Ferramentas de ETL
 - Ferramentas de Visualização de Dados
-- [Outras tecnologias relevantes]
+- MySQL
+- Excel
+- PowerQuery
 
-## 📊 Projetos Desenvolvidos
-Cada projeto foi desenvolvido para abordar desafios reais e construir um portfólio robusto:
-<!--
-1. **[BD E-COMMERCE]**
-   - Objetivo:
-   - Tecnologias:
-   - [Link para o projeto](/projetos/projeto1)
-
-2. **[BD OFICINA MECANICA]**
-   - Objetivo:
-   - Tecnologias:
-   - [Link para o projeto](/projetos/projeto2)
-
-[E assim por diante para os outros projetos...]
--->
 ## 🌟 Destaques do Bootcamp
 - Aprendizado prático com dados reais
 - 6 projetos para o portfólio
