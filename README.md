@@ -13,7 +13,7 @@ Programa intensivo focado na aplicação de inteligência artificial em dados, d
 - Transformar dados brutos em decisões estratégicas
 
 
-### 5. Projetos Práticos
+###  Projetos Práticos
 
   - [Contribuindo em um Projeto Open Source no GitHub](https://github.com/elidianaandrade/dio-lab-open-source/pull/405)
   - [Refinando um Projeto Conceitual de Banco de Dados – E-COMMERCE](https://github.com/fernandodelin/PastaDIOBootcampHeineken/tree/main/ProjetoBD-e-commerce)
